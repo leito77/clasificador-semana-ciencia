@@ -1,0 +1,6 @@
+model_checkpoint_path: "GCN+a+g_3_activity_atomwise_512_train.ckpt-2400"
+all_model_checkpoint_paths: "GCN+a+g_3_activity_atomwise_512_train.ckpt-2160"
+all_model_checkpoint_paths: "GCN+a+g_3_activity_atomwise_512_train.ckpt-2220"
+all_model_checkpoint_paths: "GCN+a+g_3_activity_atomwise_512_train.ckpt-2280"
+all_model_checkpoint_paths: "GCN+a+g_3_activity_atomwise_512_train.ckpt-2340"
+all_model_checkpoint_paths: "GCN+a+g_3_activity_atomwise_512_train.ckpt-2400"
